@@ -16,13 +16,13 @@
 			<defaultValue>1.0.0-SNAPSHOT</defaultValue>
 		</requiredProperty>
 		<requiredProperty key="opencms-version">
-			<defaultValue>8.0.4</defaultValue>
+			<defaultValue>9.5.0</defaultValue>
 		</requiredProperty>
 		<requiredProperty key="resources-encoding">
 			<defaultValue>UTF-8</defaultValue>
 		</requiredProperty>
 		<requiredProperty key="module-plugin-version">
-			<defaultValue>0.1.0-SNAPSHOT</defaultValue>
+			<defaultValue>1.0</defaultValue>
 		</requiredProperty>
 	</requiredProperties>
 	<fileSets>
